@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vansh12345341
 - 👀 I’m interested in Full stack Web development 
-- 🌱 I’m currently learning Graphql,node js, express server and postgreql
-- 💞️ I’m looking to collaborate on opn source web projects 
+- 🌱 I’m currently working on MERN stack and technologies related to web development with a strong knowledge os DSA and Algo.
+- 💞️ I’m looking to collaborate on opn source web projects
 - 📫 How to reach me contact me on instagram @vansharma__767
 
 <!---
